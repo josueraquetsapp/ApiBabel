@@ -4,8 +4,8 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.magzin.apibabel.data.model.ResultsRickMortyModel
-import com.magzin.apibabel.domain.GetRandomRickMortyUseCase
-import com.magzin.apibabel.domain.GetRickMortyUseCase
+import com.magzin.apibabel.usecase.GetRandomRickMortyUseCase
+import com.magzin.apibabel.usecase.GetRickMortyUseCase
 import kotlinx.coroutines.launch
 import mu.KotlinLogging
 

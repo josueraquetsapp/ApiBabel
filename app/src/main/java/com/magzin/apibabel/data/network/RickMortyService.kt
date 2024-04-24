@@ -1,6 +1,6 @@
 package com.magzin.apibabel.data.network
 
-import com.magzin.apibabel.core.RetrofitHelper
+import com.magzin.apibabel.domain.core.RetrofitHelper
 import com.magzin.apibabel.data.model.ResultsRickMortyModel
 import mu.KotlinLogging
 import kotlinx.coroutines.Dispatchers
